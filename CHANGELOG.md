@@ -3,6 +3,8 @@
 Các phiên bản theo Semantic Versioning; nội dung theo Keep a Changelog.
 
 ## [Unreleased]
+
+## [1.1.0] - 2026-11-06
 ### Added
 - Sắp xếp giỏ hàng theo tiêu đề hoặc giá tiền.
 - Tìm DVD theo thể loại.
