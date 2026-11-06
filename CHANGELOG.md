@@ -5,9 +5,15 @@ Các phiên bản theo Semantic Versioning; nội dung theo Keep a Changelog.
 ## [Unreleased]
 
 ## [1.1.0] - 2026-11-06
+### Fixed
+- Bao gồm bản sửa tìm tiêu đề không phân biệt hoa/thường (#19).
 ### Added
 - Sắp xếp giỏ hàng theo tiêu đề hoặc giá tiền.
 - Tìm DVD theo thể loại.
+
+## [1.0.1] - 2026-11-06
+### Fixed
+- Tìm tiêu đề không phân biệt hoa/thường (#19).
 
 ## [1.0.0] - 2026-11-06
 ### Added
